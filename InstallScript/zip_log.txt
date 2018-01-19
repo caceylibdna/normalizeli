@@ -1,0 +1,41 @@
+The system cannot find the file specified.
+
+7-Zip [64] 15.12 : Copyright (c) 1999-2015 Igor Pavlov : 2015-11-19
+
+Scanning the drive:
+0 files, 0 bytes
+
+Creating archive: C:\InstallScript\logs\BDNA.log.20171117.zip
+
+Items to compress: 0
+
+
+Files read from disk: 0
+Archive size: 22 bytes (1 KiB)
+
+Scan WARNINGS for files and folders:
+
+C:\BDNA\Data : The system cannot find the file specified.
+Platform : The system cannot find the file specified.
+----------------
+Scan WARNINGS: 2
+
+7-Zip [64] 15.12 : Copyright (c) 1999-2015 Igor Pavlov : 2015-11-19
+
+Scanning the drive:
+0 files, 0 bytes
+
+Creating archive: C:\InstallScript\logs\UX.log.20171117.zip
+
+Items to compress: 0
+
+
+Files read from disk: 0
+Archive size: 22 bytes (1 KiB)
+
+Scan WARNINGS for files and folders:
+
+C:\BDNA\User : The system cannot find the file specified.
+Console : The system cannot find the file specified.
+----------------
+Scan WARNINGS: 2
